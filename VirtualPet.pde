@@ -1,8 +1,6 @@
 
-void setup(){
-  //some of your code here
+ void draw()
+{
+  ellipse( 50, 50, 50,25);
+  ellipse( 78,40, 20,20);
 }
-void draw(){
-  //more of your code here
-}
-
